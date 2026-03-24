@@ -12,6 +12,5 @@ I’m a results-oriented strategic thinker and doer, partnering with clients to 
 ## Socials
 ![Bluesky followers](https://img.shields.io/bluesky/followers/tylerschroeder.net)
 ![Bluesky posts](https://img.shields.io/bluesky/posts/tylerschroeder.net)
-
 ![GitHub followers](https://img.shields.io/github/followers/tyler-schroeder)
 ![GitHub User's stars](https://img.shields.io/github/stars/tyler-schroeder)
