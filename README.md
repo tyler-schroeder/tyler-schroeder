@@ -8,7 +8,6 @@ I’m a results-oriented strategic thinker and doer, partnering with clients to 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.tylerschroeder.net)
 ![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fwww.tylerschroeder.net)
 ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/www.tylerschroeder.net)
-[![GitHub release](<https://img.shields.io/github/v/release/tyler-schroeder/tyler-schroeder.net>)](<https://github.com/tyler-schroeder/tyler-schroeder.net/releases/latest>)
 
 ## Socials
 ![Bluesky followers](https://img.shields.io/bluesky/followers/tylerschroeder.net)
