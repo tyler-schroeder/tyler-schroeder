@@ -1,7 +1,5 @@
+I'm a Senior Principal Strategist based in St. Paul, Minnesota, USA, with more than 15 years of experience in digital strategy consulting. My work focuses on data privacy as a strategic discipline, responsible AI governance, accessibility, and digital transformation—helping organizations make informed, defensible decisions about their digital investments. A certified privacy professional and AI Operations practitioner, [Tyler writes regularly](https://www.tylerschroeder.net/blog/) about the policy, governance, and strategy issues that define where digital is heading.
 
-![Logo](/assets/tyler-schroeder-wordmark.svg)
-
-I’m a results-oriented strategic thinker and doer, partnering with clients to understand their business goals and unique challenges. As a big-picture thinker who understands how digital tactics and tools work together, I “connect the dots” between business and consumer insights to find solutions for complex challenges, turning client needs into an action plan that aligns with their business objectives.
 
 ## Website Status
 
